@@ -91,15 +91,3 @@
 <summary>But also in non-interactive mode:</summary>
 <pre>$ echo "/bin/ls" | ./hsh<br>hsh main.c shell.c test\_ls\_2<br>$<br>$ cat test\_ls\_2<br>/bin/ls<br>/bin/ls<br>$<br>$ cat test\_ls\_2 | ./hsh<br>hsh main.c shell.c test\_ls\_2<br>hsh main.c shell.c test\_ls\_2<br>$</pre>
 </details>
-
-## Features
-
-- To add as we progress
-
-## Builtins
-
-- To add as we progress
-
-## Authors
-
-- iAmG-r00t 👾
